@@ -9,6 +9,7 @@ A simple web application to track your daily expenses using React and Context AP
 - [Usage](#usage)
 - [Components](#components)
 - [Contributing](#contributing)
+- [Credits](#credits)
 - [License](#license)
 
 ## Features
@@ -82,6 +83,14 @@ A simple web application to track your daily expenses using React and Context AP
 3. Make your changes.
 4. Submit a pull request.
 
+## Credits
+
+Created by Muhammad Muzzamil Khan
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Explore and contribute to PHP Product Manager to enhance its functionality. If you have questions or suggestions, please open an issue or contact khanmuhammadmuzzamil500@gmail.com
