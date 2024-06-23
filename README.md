@@ -78,10 +78,38 @@ A simple web application to track your daily expenses using React and Context AP
 
 ## Contributing
 
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Submit a pull request.
+Follow the steps below to contribute to the existing work:
+
+1. **Fork the Repository**
+
+Fork the repository to your own GitHub account by clicking the "Fork" button at the top right corner of the repository page. This creates a copy of the repository under your GitHub account.
+
+2. **Create a New Branch**
+
+   Clone the forked repository to your local machine:
+
+   ```bash
+   git clone https://github.com/muhammadmuzzamilkhan/cashflow-tracker.git
+   cd cashflow-tracker
+   ```
+   Create a new branch for your changes. Use a descriptive name for your branch to easily identify its purpose:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. **Make your changes**
+4. **Commit your changes**
+
+    ```bash
+    git commit -m "Description of your changes"
+    ```
+
+5. **Push to your branch**
+
+    ```bash
+    git push origin feature-name
+    ```
+
+6. **Submit a pull request**
 
 ## Credits
 
